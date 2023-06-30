@@ -1,12 +1,6 @@
 
 ### Hi there 👋, I'm Andrias Matheus
 <hr>
-<div align="center">
-  <a href="https://github.com/andriasmatheus">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andriasmatheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriasmatheus&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
- 
 <h3>Programming Languages</h3>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
